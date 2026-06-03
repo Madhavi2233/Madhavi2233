@@ -2,11 +2,13 @@
 
 # Hi 👋 I'm Madhavi Chittimalla
 
-### AI & ML Student | Python Developer | Flask • Web Development • APIs • Testing
+### AI & ML Student | Python • Flask • AI/ML • Web Development • Testing
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4FD8&center=true&vCenter=true&width=700&lines=Python+Developer;Flask+Developer;AI+%26+ML+Student;Web+Development+Enthusiast;Open+to+Internships" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4FD8&center=true&vCenter=true&width=700&lines=Python+Developer;Flask+Developer;AI+%26+ML+Student;Web+Development+Enthusiast;Open+to+Internships" />
+</p>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Madhavi2233&label=Profile%20Views&color=ff69b4&style=flat" />
 
@@ -38,6 +40,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/AI%2FML-Student-ff69b4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JavaScript-Frontend-yellow?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman" />
@@ -50,31 +53,26 @@
 ```mermaid
 graph TD;
 
-A[🧠 AI Resume Analyzer] --> B[Python]
+A[AI Resume Analyzer] --> B[Python]
 A --> C[Flask]
 A --> D[NLP]
 A --> E[HTML CSS JS]
 
-F[🐞 Bug Tracking System] --> B
+F[Bug Tracking System] --> B
 F --> C
 F --> G[SQLite]
 F --> H[REST APIs]
 F --> I[Postman Testing]
 
-J[🔳 QR Generator & Scanner] --> B
+J[QR Generator & Scanner] --> B
 J --> C
 J --> K[OpenCV]
 
-L[💼 CareerForge AI] --> B
+L[CareerForge AI] --> B
 L --> C
 L --> D
 L --> G
 L --> M[AI Job Matching]
-
-style A fill:#ff69b4,color:#fff
-style F fill:#ff69b4,color:#fff
-style J fill:#ff69b4,color:#fff
-style L fill:#ff69b4,color:#fff
 ```
 
 ---
