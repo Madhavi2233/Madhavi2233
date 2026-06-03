@@ -1,107 +1,73 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Madhavi%20Chittimalla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+# Hi 👋 I'm Madhavi Chittimalla  
+### AI & ML Student | Full Stack Developer | Python • Flask • JavaScript • Testing
 
-<h1>Hi 👋 I'm Madhavi Chittimalla</h1>
-
-<h3>
-🚀 AI & ML Student | Python • Flask • JavaScript • APIs • SQL • Testing
-</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;Learning+and+Building+Everyday;Open+to+Internships+%26+Full-Time+Roles" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Madhavi2233&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF4FD8&center=true&vCenter=true&width=650&lines=Python+Developer;Flask+Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+to+Internships+%26+Full-Time+Roles" />
 
 </div>
 
 ---
-
-# ✨ About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-🎓 B.Tech CSE (AI & ML) Student at **SR University, Warangal**  
-💡 Passionate about **AI/ML, Full Stack Development, APIs, SQL & Testing**  
-🚀 Building real-world projects using **Python, Flask, JavaScript & SQLite**  
-🧠 Currently learning **React, Node.js, DSA & Full Stack Development**  
-💼 Open to **Internships & Full-Time Opportunities**  
-🔥 Love solving problems using technology
-
-<br><br>
-
----
-
-# 🛠️ Tech Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,sqlite,git,github,vscode,postman" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="32%" align="center">
 
-## 🧠 AI Resume Analyzer
+<img src="https://github.com/Madhavi2233.png" width="170" style="border-radius:50%"/>
 
-✔ ATS Resume Score  
-✔ Missing Skills Detection  
-✔ Resume Suggestions  
-✔ Job Description Matching  
+### Madhavi Chittimalla
 
-**Tech Stack:**  
-Python, Flask, NLP, HTML, CSS, JavaScript
+**AI & ML Student**  
+**Full Stack Developer**
 
-</td>
+📍 Warangal, Telangana  
+🎓 SR University  
+💼 Open to Internships  
 
-<td width="50%">
+<br>
 
-## 🐞 Bug Tracking System
+<a href="https://www.linkedin.com/in/madhavi-chittimalla-a52157295/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-✔ Login/Register System  
-✔ CRUD Operations  
-✔ REST APIs  
-✔ API Testing with Postman  
+<br><br>
 
-**Tech Stack:**  
-Python, Flask, SQLite, Bootstrap
+<a href="mailto:madhavi.ch2021@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-</td>
-</tr>
+<br><br>
 
-<tr>
-<td width="50%">
-
-## 🔳 QR Generator & Scanner
-
-✔ Generate QR Codes  
-✔ Scan QR Codes  
-✔ OpenCV Integration  
-✔ Flask Backend  
-
-**Tech Stack:**  
-Python, Flask, OpenCV
+<img src="https://komarev.com/ghpvc/?username=Madhavi2233&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 
 </td>
 
-<td width="50%">
+<td width="68%">
 
-## 💼 CareerForge AI *(Building 🚧)*
+## 👩‍💻 About Me
 
-✔ Resume Upload  
-✔ AI Job Matching  
-✔ Skill Gap Analysis  
-✔ Application Tracker  
+- 🎓 B.Tech CSE (AI & ML) Student at **SR University, Warangal**
+- 💻 Interested in **Full Stack Development, AI/ML, APIs, SQL & Testing**
+- 🚀 Building projects using **Python, Flask, JavaScript & SQLite**
+- 🧠 Currently learning **React, Node.js, DSA & REST APIs**
+- 💼 Open to **Internships and Full-Time Opportunities**
 
-**Tech Stack:**  
-Python, Flask, SQLite, JavaScript, NLP
+---
+
+## 🛠️ Technical Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,sqlite,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Madhavi2233&show_icons=true&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavi2233&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 </td>
 </tr>
@@ -109,21 +75,70 @@ Python, Flask, SQLite, JavaScript, NLP
 
 ---
 
-# 📊 GitHub Analytics
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Madhavi2233&show_icons=true&theme=tokyonight&hide_border=true" />
+### 🧠 AI Resume Analyzer
+- ATS Resume Score  
+- Skill Matching  
+- Missing Skills Detection  
+- Resume Suggestions  
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavi2233&layout=compact&theme=tokyonight&hide_border=true" />
+**Tech:** Python, Flask, NLP, HTML, CSS, JS
 
-</div>
+</td>
+<td width="50%">
+
+### 🐞 Bug Tracking System
+- Login/Register  
+- CRUD Operations  
+- REST APIs  
+- Postman API Testing  
+
+**Tech:** Python, Flask, SQLite, Bootstrap
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔳 QR Generator & Scanner
+- Generate QR Codes  
+- Scan QR Codes  
+- OpenCV Integration  
+
+**Tech:** Python, Flask, OpenCV
+
+</td>
+<td width="50%">
+
+### 💼 CareerForge AI
+- Resume Upload  
+- AI Job Matching  
+- Skill Gap Analysis  
+- Application Tracker  
+
+**Tech:** Python, Flask, SQLite, JavaScript, NLP
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📜 Certifications
+## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Madhavi2233&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📜 Certifications
 
 | Certification | Domain |
 |---|---|
@@ -132,29 +147,9 @@ Python, Flask, SQLite, JavaScript, NLP
 | Web Development Fundamentals | Web Development |
 | Project Management | Management |
 
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/madhavi-chittimalla-a52157295/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:madhavi.ch2021@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-</div>
-
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=120&section=footer"/>
 
 ### ⭐ Learning • Building • Growing ⭐
 
