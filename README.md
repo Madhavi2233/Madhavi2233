@@ -3,7 +3,7 @@
 # Hi 👋 I'm Madhavi Chittimalla  
 ### AI & ML Student | Full Stack Developer | Python • Flask • JavaScript • Testing
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF4FD8&center=true&vCenter=true&width=650&lines=Python+Developer;Flask+Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+to+Internships+%26+Full-Time+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF4FD8&center=true&vCenter=true&width=650&lines=Python+Developer;Flask+Developer;AI+%26+ML+Enthusiast;Open+to+Internships" />
 
 </div>
 
@@ -13,7 +13,7 @@
 <tr>
 <td width="32%" align="center">
 
-<img src="https://github.com/Madhavi2233.png" width="170" style="border-radius:50%"/>
+<img src="https://github.com/Madhavi2233.png" width="170"/>
 
 ### Madhavi Chittimalla
 
@@ -26,6 +26,10 @@
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=Madhavi2233&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/madhavi-chittimalla-a52157295/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -35,10 +39,6 @@
 <a href="mailto:madhavi.ch2021@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Madhavi2233&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 
 </td>
 
@@ -62,11 +62,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Coding Focus
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Madhavi2233&show_icons=true&theme=radical&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavi2233&layout=compact&theme=radical&hide_border=true" />
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman"/>
 </p>
 
 </td>
@@ -87,9 +90,10 @@
 - Missing Skills Detection  
 - Resume Suggestions  
 
-**Tech:** Python, Flask, NLP, HTML, CSS, JS
+**Tech:** Python, Flask, NLP, HTML, CSS, JavaScript
 
 </td>
+
 <td width="50%">
 
 ### 🐞 Bug Tracking System
@@ -114,6 +118,7 @@
 **Tech:** Python, Flask, OpenCV
 
 </td>
+
 <td width="50%">
 
 ### 💼 CareerForge AI
@@ -130,14 +135,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Madhavi2233&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 📜 Certifications
 
 | Certification | Domain |
@@ -150,6 +147,18 @@
 ---
 
 <div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/madhavi-chittimalla-a52157295/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:madhavi.ch2021@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br><br>
 
 ### ⭐ Learning • Building • Growing ⭐
 
