@@ -1,9 +1,14 @@
 <div align="center">
 
-# Hi 👋 I'm Madhavi Chittimalla  
-### AI & ML Student | Full Stack Developer | Python • Flask • JavaScript • Testing
+# Hi 👋 I'm Madhavi Chittimalla
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF4FD8&center=true&vCenter=true&width=650&lines=Python+Developer;Flask+Developer;AI+%26+ML+Enthusiast;Open+to+Internships" />
+### AI & ML Student | Full Stack Developer | Python • Flask • JavaScript • SQL • Testing
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF4FD8&center=true&vCenter=true&width=700&lines=Python+Developer;Flask+Full+Stack+Developer;AI+%26+ML+Enthusiast;API+Testing+%7C+SQL;Open+to+Internships+%26+Full-Time+Roles" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Madhavi2233&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 
 </div>
 
@@ -11,9 +16,9 @@
 
 <table>
 <tr>
-<td width="32%" align="center">
+<td width="30%" align="center">
 
-<img src="https://github.com/Madhavi2233.png" width="170"/>
+<img src="https://github.com/Madhavi2233.png" width="180"/>
 
 ### Madhavi Chittimalla
 
@@ -26,31 +31,28 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Madhavi2233&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/madhavi-chittimalla-a52157295/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <br><br>
 
 <a href="mailto:madhavi.ch2021@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </td>
 
-<td width="68%">
+<td width="70%">
 
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE (AI & ML) Student at **SR University, Warangal**
 - 💻 Interested in **Full Stack Development, AI/ML, APIs, SQL & Testing**
-- 🚀 Building projects using **Python, Flask, JavaScript & SQLite**
+- 🚀 Building real-world projects using **Python, Flask, JavaScript & SQLite**
 - 🧠 Currently learning **React, Node.js, DSA & REST APIs**
 - 💼 Open to **Internships and Full-Time Opportunities**
+- ⭐ Focused on writing clean code and improving GitHub projects
 
 ---
 
@@ -85,24 +87,26 @@
 <td width="50%">
 
 ### 🧠 AI Resume Analyzer
+
 - ATS Resume Score  
 - Skill Matching  
 - Missing Skills Detection  
 - Resume Suggestions  
 
-**Tech:** Python, Flask, NLP, HTML, CSS, JavaScript
+**Tech Stack:** Python, Flask, NLP, HTML, CSS, JavaScript
 
 </td>
 
 <td width="50%">
 
 ### 🐞 Bug Tracking System
-- Login/Register  
+
+- Login/Register System  
 - CRUD Operations  
 - REST APIs  
-- Postman API Testing  
+- API Testing with Postman  
 
-**Tech:** Python, Flask, SQLite, Bootstrap
+**Tech Stack:** Python, Flask, SQLite, Bootstrap
 
 </td>
 </tr>
@@ -111,23 +115,26 @@
 <td width="50%">
 
 ### 🔳 QR Generator & Scanner
+
 - Generate QR Codes  
 - Scan QR Codes  
 - OpenCV Integration  
+- Flask Backend  
 
-**Tech:** Python, Flask, OpenCV
+**Tech Stack:** Python, Flask, OpenCV
 
 </td>
 
 <td width="50%">
 
 ### 💼 CareerForge AI
+
 - Resume Upload  
 - AI Job Matching  
 - Skill Gap Analysis  
 - Application Tracker  
 
-**Tech:** Python, Flask, SQLite, JavaScript, NLP
+**Tech Stack:** Python, Flask, SQLite, JavaScript, NLP
 
 </td>
 </tr>
@@ -146,16 +153,16 @@
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
 
-### 🌐 Connect With Me
-
 <a href="https://www.linkedin.com/in/madhavi-chittimalla-a52157295/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:madhavi.ch2021@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <br><br>
