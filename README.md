@@ -2,79 +2,87 @@
 
 # Hi 👋 I'm Madhavi Chittimalla
 
-### 🚀 AI & ML Student | Full Stack Developer | Python • Flask • JavaScript • SQL • Testing
+### AI & ML Student | Python Developer | Flask • Web Development • APIs • Testing
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF4FD8&center=true&vCenter=true&width=750&lines=Python+Developer;Flask+Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real+World+Projects;Open+to+Internships+%26+Full-Time+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4FD8&center=true&vCenter=true&width=700&lines=Python+Developer;Flask+Developer;AI+%26+ML+Student;Open+to+Internships" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Madhavi2233&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Madhavi2233&label=Profile%20Views&color=ff69b4&style=flat" />
 
 </div>
 
 ---
 
-# ✨ About Me
+## ✨ About Me
 
-🎓 B.Tech CSE (AI & ML) Student at **SR University, Warangal**  
-💻 Interested in **Full Stack Development, AI/ML, APIs, SQL & Testing**  
-🚀 Building real-world projects using **Python, Flask, JavaScript & SQLite**  
-🧠 Currently learning **React, Node.js, DSA & REST APIs**  
-💼 Open to **Internships and Full-Time Opportunities**  
-⭐ Passionate about solving real-world problems using technology
+- 🎓 B.Tech CSE (AI & ML) Student at **SR University, Warangal**
+- 💻 Interested in **AI/ML, Web Development, APIs, SQL & Testing**
+- 🚀 Building projects using **Python, Flask, JavaScript & SQLite**
+- 📚 Currently learning **React, Node.js, DSA & REST APIs**
+- 💼 Open to **Internship and Full-Time Opportunities**
+- ⭐ Passionate about solving real-world problems using technology
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,sqlite,git,github,vscode,postman" />
-
-</div>
-
----
-
-# 💻 Coding Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman"/>
-
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 💻 Coding Focus
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/JavaScript-Frontend-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhavi2233&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavi2233&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavi2233&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-## 🧠 AI Resume Analyzer
+### 🧠 [AI Resume Analyzer](https://github.com/Madhavi2233/AI-Resume-Analyzer)
 
-✔ ATS Resume Score  
-✔ Skill Matching  
-✔ Missing Skills Detection  
-✔ Resume Suggestions  
+✅ ATS Resume Score  
+✅ Skill Matching  
+✅ Missing Skills Detection  
+✅ Resume Suggestions  
 
 **Tech Stack:**  
 Python, Flask, NLP, HTML, CSS, JavaScript
 
 </td>
-
 <td width="50%">
 
-## 🐞 Bug Tracking System
+### 🐞 [Bug Tracking System](https://github.com/Madhavi2233/Bug-Tracking-System)
 
-✔ Login/Register System  
-✔ CRUD Operations  
-✔ REST APIs  
-✔ API Testing with Postman  
+✅ Login/Register System  
+✅ CRUD Operations  
+✅ REST APIs  
+✅ API Testing with Postman  
 
 **Tech Stack:**  
 Python, Flask, SQLite, Bootstrap
@@ -85,26 +93,25 @@ Python, Flask, SQLite, Bootstrap
 <tr>
 <td width="50%">
 
-## 🔳 QR Generator & Scanner
+### 🔳 [QR Generator & Scanner](https://github.com/Madhavi2233/QR-Generator)
 
-✔ Generate QR Codes  
-✔ Scan QR Codes  
-✔ OpenCV Integration  
-✔ Flask Backend  
+✅ Generate QR Codes  
+✅ Scan QR Codes  
+✅ OpenCV Integration  
+✅ Flask Backend  
 
 **Tech Stack:**  
 Python, Flask, OpenCV
 
 </td>
-
 <td width="50%">
 
-## 💼 CareerForge AI *(Building 🚧)*
+### 💼 CareerForge AI *(Building)*
 
-✔ Resume Upload  
-✔ AI Job Matching  
-✔ Skill Gap Analysis  
-✔ Application Tracker  
+✅ Resume Upload  
+✅ AI Job Matching  
+✅ Skill Gap Analysis  
+✅ Application Tracker  
 
 **Tech Stack:**  
 Python, Flask, SQLite, JavaScript, NLP
@@ -115,7 +122,7 @@ Python, Flask, SQLite, JavaScript, NLP
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 | Certification | Domain |
 |---|---|
@@ -126,24 +133,26 @@ Python, Flask, SQLite, JavaScript, NLP
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/madhavi-chittimalla-a52157295/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:madhavi.ch2021@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-</div>
+<a href="https://madhavi2233.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Learning • Building • Growing ⭐
+⭐ **Learning • Building • Growing** ⭐
 
 </div>
