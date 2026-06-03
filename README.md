@@ -36,24 +36,25 @@
 ## 💻 Coding Focus
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python" />
+
 <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask" />
+
 <img src="https://img.shields.io/badge/JavaScript-Frontend-yellow?style=for-the-badge&logo=javascript" />
+
 <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman" />
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhavi2233&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavi2233&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavi2233&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhavi2233&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="95%">
 </p>
 
 ---
@@ -75,6 +76,7 @@
 Python, Flask, NLP, HTML, CSS, JavaScript
 
 </td>
+
 <td width="50%">
 
 ### 🐞 [Bug Tracking System](https://github.com/Madhavi2233/Bug-Tracking-System)
@@ -104,6 +106,7 @@ Python, Flask, SQLite, Bootstrap
 Python, Flask, OpenCV
 
 </td>
+
 <td width="50%">
 
 ### 💼 CareerForge AI *(Building)*
@@ -136,6 +139,7 @@ Python, Flask, SQLite, JavaScript, NLP
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/madhavi-chittimalla-a52157295/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
@@ -147,6 +151,7 @@ Python, Flask, SQLite, JavaScript, NLP
 <a href="https://madhavi2233.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge" />
 </a>
+
 </p>
 
 ---
