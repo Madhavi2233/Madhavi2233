@@ -1,32 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Madhavi%20Chittimalla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Madhavi%20Chittimalla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Python+Developer;Flask+Full+Stack+Developer;AI+%26+ML+Enthusiast;API+Testing+%7C+SQL+%7C+JavaScript;Open+to+Internships+%26+Full-Time+Roles" />
+<h1>Hi 👋 I'm Madhavi Chittimalla</h1>
+
+<h3>
+🚀 AI & ML Student | Python • Flask • JavaScript • APIs • SQL • Testing
+</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;Learning+and+Building+Everyday;Open+to+Internships+%26+Full-Time+Roles" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Madhavi2233&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Madhavi2233&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## ✨ About Me
+# ✨ About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-🎓 **B.Tech CSE (AI & ML)** student at **SR University, Warangal**  
-💻 Interested in **Full Stack Development, AI/ML, APIs, SQL & Testing**  
+🎓 B.Tech CSE (AI & ML) Student at **SR University, Warangal**  
+💡 Passionate about **AI/ML, Full Stack Development, APIs, SQL & Testing**  
 🚀 Building real-world projects using **Python, Flask, JavaScript & SQLite**  
-🧠 Currently learning **React, Node.js, DSA & System Design Basics**  
-💼 Open to **Internships and Full-Time Opportunities**  
+🧠 Currently learning **React, Node.js, DSA & Full Stack Development**  
+💼 Open to **Internships & Full-Time Opportunities**  
+🔥 Love solving problems using technology
 
-<br>
+<br><br>
 
 ---
 
-## 🧰 Tech Toolbox
+# 🛠️ Tech Toolbox
 
 <div align="center">
 
@@ -36,36 +43,35 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 AI Resume Analyzer
-AI-powered resume analysis system.
+## 🧠 AI Resume Analyzer
 
-**Features**
-- ATS score  
-- Skill matching  
-- Missing skills  
-- Resume suggestions  
+✔ ATS Resume Score  
+✔ Missing Skills Detection  
+✔ Resume Suggestions  
+✔ Job Description Matching  
 
-**Tech:** Python, Flask, NLP, HTML, CSS, JS
+**Tech Stack:**  
+Python, Flask, NLP, HTML, CSS, JavaScript
 
 </td>
+
 <td width="50%">
 
-### 🐞 Bug Tracking System
-Full-stack bug management platform.
+## 🐞 Bug Tracking System
 
-**Features**
-- Login/Register  
-- CRUD operations  
-- REST APIs  
-- Postman testing  
+✔ Login/Register System  
+✔ CRUD Operations  
+✔ REST APIs  
+✔ API Testing with Postman  
 
-**Tech:** Python, Flask, SQLite, Bootstrap
+**Tech Stack:**  
+Python, Flask, SQLite, Bootstrap
 
 </td>
 </tr>
@@ -73,30 +79,29 @@ Full-stack bug management platform.
 <tr>
 <td width="50%">
 
-### 🔳 QR Generator & Scanner
-QR web application.
+## 🔳 QR Generator & Scanner
 
-**Features**
-- Generate QR  
-- Scan QR  
-- OpenCV support  
-- Flask backend  
+✔ Generate QR Codes  
+✔ Scan QR Codes  
+✔ OpenCV Integration  
+✔ Flask Backend  
 
-**Tech:** Python, Flask, OpenCV
+**Tech Stack:**  
+Python, Flask, OpenCV
 
 </td>
+
 <td width="50%">
 
-### 💼 CareerForge AI
-AI job portal currently building.
+## 💼 CareerForge AI *(Building 🚧)*
 
-**Features**
-- Resume upload  
-- Job matching  
-- Skill gap analysis  
-- Application tracker  
+✔ Resume Upload  
+✔ AI Job Matching  
+✔ Skill Gap Analysis  
+✔ Application Tracker  
 
-**Tech:** Python, Flask, SQLite, JavaScript, NLP
+**Tech Stack:**  
+Python, Flask, SQLite, JavaScript, NLP
 
 </td>
 </tr>
@@ -104,39 +109,25 @@ AI job portal currently building.
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhavi2233&show_icons=true&theme=radical&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Madhavi2233&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavi2233&layout=compact&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavi2233&theme=radical&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavi2233&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📜 Certifications
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Madhavi2233&theme=radical&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| Certification | Area |
+| Certification | Domain |
 |---|---|
-| AI & ML Internship | Artificial Intelligence |
+| AI & ML Internship – 1Stop | Artificial Intelligence |
 | Python Programming | Programming |
 | Web Development Fundamentals | Web Development |
 | Project Management | Management |
@@ -145,7 +136,7 @@ AI job portal currently building.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -163,7 +154,7 @@ AI job portal currently building.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=120&section=footer"/>
 
 ### ⭐ Learning • Building • Growing ⭐
 
