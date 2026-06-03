@@ -2,9 +2,9 @@
 
 # Hi 👋 I'm Madhavi Chittimalla
 
-### AI & ML Student | Full Stack Developer | Python • Flask • JavaScript • SQL • Testing
+### 🚀 AI & ML Student | Full Stack Developer | Python • Flask • JavaScript • SQL • Testing
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF4FD8&center=true&vCenter=true&width=700&lines=Python+Developer;Flask+Full+Stack+Developer;AI+%26+ML+Enthusiast;API+Testing+%7C+SQL;Open+to+Internships+%26+Full-Time+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF4FD8&center=true&vCenter=true&width=750&lines=Python+Developer;Flask+Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real+World+Projects;Open+to+Internships+%26+Full-Time+Roles" />
 
 <br>
 
@@ -14,99 +14,70 @@
 
 ---
 
-<table>
-<tr>
-<td width="30%" align="center">
+# ✨ About Me
 
-<img src="https://github.com/Madhavi2233.png" width="180"/>
-
-### Madhavi Chittimalla
-
-**AI & ML Student**  
-**Full Stack Developer**
-
-📍 Warangal, Telangana  
-🎓 SR University  
-💼 Open to Internships  
-
-<br>
-
-<a href="https://www.linkedin.com/in/madhavi-chittimalla-a52157295/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<br><br>
-
-<a href="mailto:madhavi.ch2021@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</td>
-
-<td width="70%">
-
-## 👩‍💻 About Me
-
-- 🎓 B.Tech CSE (AI & ML) Student at **SR University, Warangal**
-- 💻 Interested in **Full Stack Development, AI/ML, APIs, SQL & Testing**
-- 🚀 Building real-world projects using **Python, Flask, JavaScript & SQLite**
-- 🧠 Currently learning **React, Node.js, DSA & REST APIs**
-- 💼 Open to **Internships and Full-Time Opportunities**
-- ⭐ Focused on writing clean code and improving GitHub projects
+🎓 B.Tech CSE (AI & ML) Student at **SR University, Warangal**  
+💻 Interested in **Full Stack Development, AI/ML, APIs, SQL & Testing**  
+🚀 Building real-world projects using **Python, Flask, JavaScript & SQLite**  
+🧠 Currently learning **React, Node.js, DSA & REST APIs**  
+💼 Open to **Internships and Full-Time Opportunities**  
+⭐ Passionate about solving real-world problems using technology
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,sqlite,git,github,vscode,postman" />
-</p>
+
+</div>
 
 ---
 
-## 💻 Coding Focus
+# 💻 Coding Focus
 
-<p align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask"/>
 <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman"/>
-</p>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 AI Resume Analyzer
+## 🧠 AI Resume Analyzer
 
-- ATS Resume Score  
-- Skill Matching  
-- Missing Skills Detection  
-- Resume Suggestions  
+✔ ATS Resume Score  
+✔ Skill Matching  
+✔ Missing Skills Detection  
+✔ Resume Suggestions  
 
-**Tech Stack:** Python, Flask, NLP, HTML, CSS, JavaScript
+**Tech Stack:**  
+Python, Flask, NLP, HTML, CSS, JavaScript
 
 </td>
 
 <td width="50%">
 
-### 🐞 Bug Tracking System
+## 🐞 Bug Tracking System
 
-- Login/Register System  
-- CRUD Operations  
-- REST APIs  
-- API Testing with Postman  
+✔ Login/Register System  
+✔ CRUD Operations  
+✔ REST APIs  
+✔ API Testing with Postman  
 
-**Tech Stack:** Python, Flask, SQLite, Bootstrap
+**Tech Stack:**  
+Python, Flask, SQLite, Bootstrap
 
 </td>
 </tr>
@@ -114,27 +85,29 @@
 <tr>
 <td width="50%">
 
-### 🔳 QR Generator & Scanner
+## 🔳 QR Generator & Scanner
 
-- Generate QR Codes  
-- Scan QR Codes  
-- OpenCV Integration  
-- Flask Backend  
+✔ Generate QR Codes  
+✔ Scan QR Codes  
+✔ OpenCV Integration  
+✔ Flask Backend  
 
-**Tech Stack:** Python, Flask, OpenCV
+**Tech Stack:**  
+Python, Flask, OpenCV
 
 </td>
 
 <td width="50%">
 
-### 💼 CareerForge AI
+## 💼 CareerForge AI *(Building 🚧)*
 
-- Resume Upload  
-- AI Job Matching  
-- Skill Gap Analysis  
-- Application Tracker  
+✔ Resume Upload  
+✔ AI Job Matching  
+✔ Skill Gap Analysis  
+✔ Application Tracker  
 
-**Tech Stack:** Python, Flask, SQLite, JavaScript, NLP
+**Tech Stack:**  
+Python, Flask, SQLite, JavaScript, NLP
 
 </td>
 </tr>
@@ -142,7 +115,7 @@
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 | Certification | Domain |
 |---|---|
@@ -153,7 +126,7 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -165,7 +138,11 @@
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<br><br>
+</div>
+
+---
+
+<div align="center">
 
 ### ⭐ Learning • Building • Growing ⭐
 
